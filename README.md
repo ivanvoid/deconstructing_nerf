@@ -12,7 +12,7 @@ Taking NeRF apart, one function at a time.
 
 
 ## TODO
--[] Hash encodings for Nerf
+- [ ] Hash encodings for Nerf
 
 ## Acknowledgments
 - [Tiny Nerf](https://github.com/bmild/nerf/blob/master/tiny_nerf.ipynb)
